@@ -27,8 +27,13 @@ dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999,2697
 dimwishlist:item=1030895163&perks=3661387068,3868766766,3436462433,2213355989,384158423
 dimwishlist:item=1030895163&perks=3661387068,3868766766,1645158859,2213355989,384158423
 
+//GLACIOCLASM
+//notes: Skorrn (M+KB / PvE): "Reservoir Burst is huge, gives a 25% damage buff as well as add clear, slideshot for tougher enemies, subsistence for trash mobs." Recommended MW: Stability, Range, Charge Time.|tags:mkb,pve
+dimwishlist:item=1030895163&perks=3161816588,1427256713
+dimwishlist:item=1030895163&perks=1820235745,1427256713
+
 // Auto Rifle
-//notes: Roman (M+KB / PvE): "Good trash clear. Barrel and Mag up to you." Recommended MW: Range or Handling.|tags:mkb,pve 
+//notes: Roman (M+KB / PvE): "Good trash clear" Recommended MW: Range or Handling.|tags:mkb,pvp 
 dimwishlist:item=602618796&perks=1820235745,3425386926 // SCATHELOCKE
 dimwishlist:item=1119734784&perks=1820235745,3425386926 // CHROMA RUSH
 dimwishlist:item=821154603&perks=1820235745,3425386926 // GNAWING HUNGER
