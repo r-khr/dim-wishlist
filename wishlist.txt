@@ -18,3 +18,7 @@ dimwishlist:item=548958835&perks=1840239774,2680121939,1820235745,2610012052,159
 notes: Bob (M+KB / PvE): "Best kinetic blinding GL" Recommended MW: Velocity or Handling|tags:mkb,pve
 dimwishlist:item=3849810018&perks=981914802,3032599245,3300816228,960810156,1154004463
 
+//EYASLUNA 
+//notes: Bob (M+KB / PvP): "Good balance between aim assist with moving target and rangefinder, with the flinch of high caliber" Recommended MW: Range or Handling.|tags:mkb,pvp 
+dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999,2697220197 
+
