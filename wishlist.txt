@@ -1,5 +1,5 @@
 // WASTELANDER M5
-//notes: Roman (M+KB / PvE): "Best gun in the game" Recommended MW: Reload or Velocity.|tags:mkb,pve
+//notes: Roman (M+KB / PvP / PvE): "Best gun in the game" Recommended MW: Handling.|tags:pvp,pve
 dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717,186337601
 
 // 1000 YARD STARE
