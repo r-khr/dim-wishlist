@@ -22,3 +22,6 @@ dimwishlist:item=3849810018&perks=981914802,3032599245,3300816228,960810156,1154
 //notes: Bob (M+KB / PvP): "Good balance between aim assist with moving target and rangefinder, with the flinch of high caliber" Recommended MW: Range or Handling.|tags:mkb,pvp 
 dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999,2697220197 
 
+//GLACIOCLASM
+//notes: Skorrn (M+KB / PvP): "Absolutely maps, slow charge time but 18m kill, under pressure is also top tier" Recommended MW: Stability.|tags:mkb,pvp 
+dimwishlist:item=1030895163&perks=3661387068,3868766766,3436462433,2213355989,384158423
