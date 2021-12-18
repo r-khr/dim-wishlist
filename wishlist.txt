@@ -25,3 +25,7 @@ dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999,2697
 //GLACIOCLASM
 //notes: Skorrn (M+KB / PvP): "Absolutely maps, slow charge time but 18m kill, under pressure is also top tier" Recommended MW: Stability.|tags:mkb,pvp 
 dimwishlist:item=1030895163&perks=3661387068,3868766766,3436462433,2213355989,384158423
+
+// Auto Rifle
+//notes: Roman (M+KB / PvE): "Good trash clear" Recommended MW: Range or Handling.|tags:mkb,pvp 
+dimwishlist:item=602618796&perks=1820235745,3425386926 // SCATHELOCKE
