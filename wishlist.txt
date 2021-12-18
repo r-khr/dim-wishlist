@@ -28,7 +28,7 @@ dimwishlist:item=1030895163&perks=3661387068,3868766766,3436462433,2213355989,38
 dimwishlist:item=1030895163&perks=3661387068,3868766766,1645158859,2213355989,384158423
 
 // Auto Rifle
-//notes: Roman (M+KB / PvE): "Good trash clear. Barrel and Mag up to you." Recommended MW: Range or Handling.|tags:mkb,pvp 
+//notes: Roman (M+KB / PvE): "Good trash clear. Barrel and Mag up to you." Recommended MW: Range or Handling.|tags:mkb,pve 
 dimwishlist:item=602618796&perks=1820235745,3425386926 // SCATHELOCKE
 dimwishlist:item=1119734784&perks=1820235745,3425386926 // CHROMA RUSH
 dimwishlist:item=821154603&perks=1820235745,3425386926 // GNAWING HUNGER
