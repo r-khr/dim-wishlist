@@ -42,3 +42,7 @@ dimwishlist:item=2496875173&perks=1820235745,3425386926 // SORROW'S VERSE
 
 // GLs
 dimwishlist:item=981718087&perks=1556840489,3300816228
+
+// Handcannons
+//notes: Roman (M+KB / PvP): "Something new for a handcannon" Recommended MW: Range.|tags:mkb,pvp 
+dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,1015611457,150943604 //EYASLUNA 
