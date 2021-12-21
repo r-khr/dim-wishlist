@@ -6,7 +6,7 @@
 
 // AUTO RIFLES ----------------------------------------------------------------------------------------------------------------
 
-dimwishlist:item=602618796&perks=1820235745,3425386926 // notes: Roman (M+KB / PvE): "Good trash clear" Recommended MW: Range or Handling.| tags:mkb,pvp | SCATHELOCKE 
+dimwishlist:item=602618796&perks=1820235745,3425386926 // notes: Roman (M+KB / PvE): "Good trash clear" Recommended MW: Range or Handling. | SCATHELOCKE 
 dimwishlist:item=1119734784&perks=1820235745,3425386926 // PvE good trash clear - CHROMA RUSH
 dimwishlist:item=821154603&perks=1820235745,3425386926 // PvE good trash clear - GNAWING HUNGER
 dimwishlist:item=2723909519&perks=1820235745,3425386926 // PvE good trash clear - ARC LOGIC
