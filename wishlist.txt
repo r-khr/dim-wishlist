@@ -11,7 +11,7 @@
 // PULSE RIFLES ----------------------------------------------------------------------------------------------------------------
 
 // BXR-55 BATTLER 
-//notes: Bob (PvP): "all decent rolls for the pulse" Recommended MW: Handling or Stability or Range.|tags:mkb,pvp
+//notes: Bob (PvP): "All decent rolls for the pulse" Recommended MW: Handling or Stability or Range.
 dimwishlist:item=2708806099&perks=839105230,1885400500,957782887,2846385770
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,2846385770
 dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,2846385770
@@ -138,7 +138,7 @@ dimwishlist:item=3849810018&perks=981914802,3032599245,3300816228,960810156,1863
 // ROCKETS -----------------------------------------------------------------------------------------------------------------
 
 // Rockets for GJALLARHORN
-//notes: Roman (PvE): "Best Rocket with GJALLARHORN" Recommended MW: Reload Speed, Velocity, Blast Radius.|tags:mkb,pve 
+//notes: Roman (PvE): "Best Rocket with GJALLARHORN" Recommended MW: Reload Speed, Velocity, Blast Radius.
 dimwishlist:item=2496242052&perks=3525010810,3796465595,2869569095,3927722942,4283235141 | CODE DUELLO
 dimwishlist:item=2448907086&perks=3525010810,3796465595,2869569095,3927722942 | ROYAL ENTRY
 dimwishlist:item=3067821200&perks=3525010810,3796465595,2869569095,3927722942 | HERETIC
