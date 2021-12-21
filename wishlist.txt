@@ -34,7 +34,7 @@ dimwishlist:item=2496875173&perks=1820235745,3425386926 | SORROW'S VERSE
 
 // HANDCANNONS ------------------------------------------------------------------------------------------------------------
 
-// YASLUNA 
+// EYASLUNA 
 //notes: Roman (PvP): "Something new for a handcannon" Recommended MW: Range.
 dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,1015611457,150943604 
 
