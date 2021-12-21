@@ -46,3 +46,11 @@ dimwishlist:item=981718087&perks=1556840489,3300816228
 // Handcannons
 //notes: Roman (M+KB / PvP): "Something new for a handcannon" Recommended MW: Range.|tags:mkb,pvp 
 dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,1015611457,150943604 //EYASLUNA 
+
+
+// Rockets for GJALLARHORN
+//notes: Roman (M+KB / PvE): "Best Rocket with GJALLARHORN" Recommended MW: Reload Speed, Velocity, Blast Radius.|tags:mkb,pve 
+dimwishlist:item=2496242052&perks=3525010810,3796465595,2869569095,3927722942,4283235141 // CODE DUELLO
+dimwishlist:item=2448907086&perks=3525010810,3796465595,2869569095,3927722942 // ROYAL ENTRY
+dimwishlist:item=3067821200&perks=3525010810,3796465595,2869569095,3927722942 // HERETIC
+
