@@ -17,10 +17,10 @@ dimwishlist:item=2496875173&perks=1820235745,3425386926 // SORROW'S VERSE
 // HANDCANNONS ------------------------------------------------------------------------------------------------------------
 
 //notes: Roman (M+KB / PvP): "Something new for a handcannon" Recommended MW: Range.|tags:mkb,pvp 
-dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,1015611457,150943604 //EYASLUNA 
+dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,1015611457,150943604 // EYASLUNA 
 
 //notes: Bob (M+KB / PvP): "Good balance between aim assist with moving target and rangefinder, with the flinch of high caliber" Recommended MW: Range or Handling.|tags:mkb,pvp 
-dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999,2697220197 //EYASLUNA 
+dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999,2697220197 // EYASLUNA 
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -49,20 +49,19 @@ dimwishlist:item=548958835&perks=1840239774,2680121939,1820235745,2610012052,159
 // FUSION RIFLE ------------------------------------------------------------------------------------------------------------
 
 //notes: Skorrn (M+KB / PvP): "God roll: Chambered compensator, particle repeater, surplus/under pressure, high impact reserves, stability MW, counterbalance mod" Recommended MW: Stability.|tags:mkb,pvp 
-dimwishlist:item=1030895163&perks=1392496348,3868766766,1645158859,2213355989 //GLACIOCLASM
-dimwishlist:item=1030895163&perks=1392496348,3868766766,3436462433,2213355989 //GLACIOCLASM
+dimwishlist:item=1030895163&perks=1392496348,3868766766,1645158859,2213355989 // GLACIOCLASM
+dimwishlist:item=1030895163&perks=1392496348,3868766766,3436462433,2213355989 // GLACIOCLASM
 
 //notes: Skorrn (M+KB / PvE): "Reservoir Burst is huge, gives a 25% damage buff as well as add clear, slideshot for tougher enemies, subsistence for trash mobs." Recommended MW: Stability, Range, Charge Time.|tags:mkb,pve
-dimwishlist:item=1030895163&perks=3161816588,1427256713 //GLACIOCLASM
-dimwishlist:item=1030895163&perks=1820235745,1427256713 //GLACIOCLASM
+dimwishlist:item=1030895163&perks=3161816588,1427256713 // GLACIOCLASM
+dimwishlist:item=1030895163&perks=1820235745,1427256713 // GLACIOCLASM
 
 // GRENADE LAUNCHERS ------------------------------------------------------------------------------------------------------------
 
 dimwishlist:item=981718087&perks=1556840489,3300816228 // DEAFENING WHISPER
 
-// PARDON OUR DUST 
 notes: Bob (M+KB / PvE): "Best kinetic blinding GL" Recommended MW: Velocity or Handling|tags:mkb,pve
-dimwishlist:item=3849810018&perks=981914802,3032599245,3300816228,960810156,1154004463
+dimwishlist:item=3849810018&perks=981914802,3032599245,3300816228,960810156,1154004463 // PARDON OUR DUST
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -82,7 +81,6 @@ dimwishlist:item=3067821200&perks=3525010810,3796465595,2869569095,3927722942 //
 
 // SWORDS -----------------------------------------------------------------------------------------------------------------
 
-// HERO OF AGES 
 //notes: Bob (M+KB / PvE): "For ads clearing with chain reaction, and getting your health back at the same time with Unrelenting" Recommended MW: Impact.|tags:mkb,pve
-dimwishlist:item=2139640995&perks=3666208348,269888150,3108830275,2396489472,3486498337 
+dimwishlist:item=2139640995&perks=3666208348,269888150,3108830275,2396489472,3486498337 // HERO OF AGES
 
