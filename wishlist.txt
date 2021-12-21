@@ -33,6 +33,10 @@ dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999,2697
 
 //notes: Roman (M+KB / PvP): "Very fun shotgun for pvp" Recommended MW: Handling.|tags:pvp
 dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717,186337601 // WASTELANDER M5
+//notes: Roman (M+KB / PvE): "Great for trash clear" Recommended MW: Handling.|tags:pve
+dimwishlist:item=1679868061&perks=1047830412,791862061,1820235745,47981717 // WASTELANDER M5
+//notes: Roman (M+KB / PvE): "Great for double special on Titan" Recommended MW: Handling.|tags:pve
+dimwishlist:item=1679868061&perks=1047830412,791862061,1556840489,2679249093 // WASTELANDER M5
 
 // SNIPER ----------------------------------------------------------------------------------------------------------------
 
