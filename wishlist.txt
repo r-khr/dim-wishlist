@@ -117,11 +117,14 @@ dimwishlist:item=1506719573&perks=3250034553,3142289711,1359896290 | Range Focus
 dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717 Roman (PvP): "Very fun shotgun for pvp" Recommended MW: Range, Handling. | WASTELANDER M5
 dimwishlist:item=1402766122&perks=1047830412,3142289711,706527188,957782887 Roman (PvP): "Great lightweight shotgun for pvp" Recommended MW: Range. | RETROFUTURIST
 dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717 Roman (PvP): "Great shotgun for pvp" Recommended MW: Range. | FRACTETHYST
+dimwishlist:item=2563012876&perks=1047830412,791862061,1428297954,47981717 Roman (PvP): "Great shotgun with perpetual motion for pvp" Recommended MW: Range. | MATADOR 64
+dimwishlist:item=2563012876&perks=1047830412,791862061,2946784966,47981717 Roman (PvP): "Great shotgun with tunnel vision for pvp" Recommended MW: Range. | MATADOR 64
 
 dimwishlist:item=1679868061&perks=1047830412,791862061,1820235745,2360754333 Roman (PvE): "Great for trash clear" Recommended MW: Handling. | WASTELANDER M5
 dimwishlist:item=1679868061&perks=1047830412,791862061,1556840489,2679249093 Roman (PvE): "Great for double special on Titan" Recommended MW: Handling. | WASTELANDER M5
 dimwishlist:item=2443900757&perks=1047830412,791862061,1820235745,2360754333 Roman (PvE): "Okay for trash clear and melee" Recommended MW: Handling. | THE COMEDIAN (ADEPT)
 dimwishlist:item=2443900757&perks=1047830412,3142289711,1820235745,3108830275 Roman (PvE): "Okay for solo trash clear" Recommended MW: Handling. | THE COMEDIAN (ADEPT)
+
 
 
 // --------------------------------------------------------------------------------------------------------------------------
