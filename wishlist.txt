@@ -44,7 +44,7 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,2946784966,2458213969 | T
 // AUTO RIFLES --------------------------------------------------------------------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------------------
 
-//notes: Roman (PvE): "Good trash clear" Recommended MW: Range or Handling.
+//notes: Roman (PvE): "Good trash clear, would recommend tac mag and fluted or corkscrew barrel. Need at least 50 stability to feel good." Recommended MW: Range or Handling.
 dimwishlist:item=602618796&perks=1820235745,3425386926 | SCATHELOCKE 
 dimwishlist:item=1119734784&perks=1820235745,3425386926 | CHROMA RUSH
 dimwishlist:item=821154603&perks=1820235745,3425386926 | GNAWING HUNGER
