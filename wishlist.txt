@@ -137,6 +137,8 @@ dimwishlist:item=2563012876&perks=1047830412,791862061,2946784966,47981717 Roman
 
 dimwishlist:item=599895591&perks=1840239774,3142289711,706527188,47981717 Roman (PvP): "Great traditional slug shotgun" Recommended MW: Range. | SOJOURNER'S TALE
 dimwishlist:item=599895591&perks=3250034553,3142289711,2946784966,2450788523 Roman (PvP): "Slug with tunnel vision and killing wind" Recommended MW: Range. | SOJOURNER'S TALE
+dimwishlist:item=599895591&perks=1840239774,3142289711,588594999,47981717,186337601 Roman (PvP): "Great feeling slug" Recommended MW: Range. | SOJOURNER'S TALE
+dimwishlist:item=599895591&perks=1840239774,791862061,588594999,47981717,2697220197 Roman (PvP): "Great feeling slug" Recommended MW: Range. | SOJOURNER'S TALE
 
 dimwishlist:item=1679868061&perks=1047830412,791862061,1820235745,2360754333 Roman (PvE): "Great for trash clear" Recommended MW: Handling. | WASTELANDER M5
 dimwishlist:item=1679868061&perks=1047830412,791862061,1556840489,2679249093 Roman (PvE): "Great for double special on Titan" Recommended MW: Handling. | WASTELANDER M5
