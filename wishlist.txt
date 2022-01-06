@@ -58,9 +58,16 @@ dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,1015611457 | H
 // HANDCANNONS --------------------------------------------------------------------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------------------
 
+// PVP
+//notes: Roman (PvP): "Rolls aimed at range for pvp" Recommended MW: Range.
+dimwishlist:item=334171687&perks=1926090093,1561002382,2846385770,47981717 | WAKING VIGIL
+dimwishlist:item=1481892490&perks=3250034553,1561002382,2846385770 | THE PALINDROME (ADEPT)
+dimwishlist:item=432476743&perks=3250034553,1561002382,2846385770 | THE PALINDROME
+
 // EYASLUNA 
 //notes: Roman (PvP): "Something new for a handcannon" Recommended MW: Range.
-dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,1015611457 
+dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,1015611457
+
 
 // EYASLUNA 
 //notes: Bob (PvP): "Good balance between aim assist with moving target and rangefinder, with the flinch of high caliber" Recommended MW: Range or Handling.
@@ -142,6 +149,8 @@ dimwishlist:item=599895591&perks=1840239774,791862061,588594999,47981717,2697220
 
 dimwishlist:item=1679868061&perks=1047830412,791862061,1820235745,2360754333 Roman (PvE): "Great for trash clear" Recommended MW: Handling. | WASTELANDER M5
 dimwishlist:item=1679868061&perks=1047830412,791862061,1556840489,2679249093 Roman (PvE): "Great for double special on Titan" Recommended MW: Handling. | WASTELANDER M5
+dimwishlist:item=346136302&perks=1047830412,791862061,1556840489,2679249093 Roman (PvE): "Great for double special on Titan" Recommended MW: Handling. | RETOLD TALE
+dimwishlist:item=346136302&perks=1047830412,791862061,1556840489,1546637391 Roman (PvE): "Aimed at boss damage" Recommended MW: Handling. | RETOLD TALE
 dimwishlist:item=2443900757&perks=1047830412,791862061,1820235745,2360754333 Roman (PvE): "Okay for trash clear and melee" Recommended MW: Handling. | THE COMEDIAN (ADEPT)
 dimwishlist:item=2443900757&perks=1047830412,3142289711,1820235745,3108830275 Roman (PvE): "Okay for solo trash clear" Recommended MW: Handling. | THE COMEDIAN (ADEPT)
 
