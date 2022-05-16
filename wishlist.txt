@@ -16,6 +16,125 @@ dimwishlist:item=577528837&perks=2946784966,1015611457
 dimwishlist:item=577528837&perks=839105230,106909392,3436462433,1015611457
 dimwishlist:item=577528837&perks=280464955,1015611457
 
+//VISION OF CONFLUENCE 
+//notes: Bob (PvE): "Decent PvE scout, but the archetype is not good for PvP" Recommended MW: Handling, Range
+dimwishlist:item=3186018373&perks=,2946784966,3824105627
+dimwishlist:item=3186018373&perks=,3592538738,3824105627
+dimwishlist:item=3186018373&perks=,3436462433,3824105627
+dimwishlist:item=3186018373&perks=,3418782618,3824105627
+dimwishlist:item=3186018373&perks=,3436462433,1683379515
+dimwishlist:item=3186018373&perks=,3418782618,1683379515
+dimwishlist:item=3186018373&perks=,3436462433,4104185692
+dimwishlist:item=3186018373&perks=,3418782618,4104185692
+
+//NIGHT WATCH 
+//notes: Bob (PvE): "Probably the best PvE legendary scout atm" Recommended MW: Handling, Stability, Reload
+dimwishlist:item=3504336176&perks=,247725512,3038247973
+dimwishlist:item=3504336176&perks=,1168162263,3038247973
+dimwishlist:item=3504336176&perks=,1820235745,3038247973
+
+//HUNG JURY 
+//notes: Bob (PvE): "Not too bad of a scout for PvE, has an interesting roll for fast 3 taps in PvP" Recommended MW: handling, Stability, Reload
+dimwishlist:item=4281371574&perks=,247725512,3038247973
+dimwishlist:item=4281371574&perks=,1820235745,3038247973
+dimwishlist:item=4281371574&perks=,3436462433,3038247973
+dimwishlist:item=4281371574&perks=,4252909580,3038247973
+dimwishlist:item=4281371574&perks=,1820235745,3824105627
+dimwishlist:item=4281371574&perks=,247725512,3824105627
+dimwishlist:item=4281371574&perks=,4252909580,3824105627
+dimwishlist:item=4281371574&perks=,3436462433,3824105627
+dimwishlist:item=4281371574&perks=,588594999,2551157718
+dimwishlist:item=4281371574&perks=,247725512,2551157718
+dimwishlist:item=4281371574&perks=,3436462433,2551157718
+
+//PERSES-D 
+//notes: Bob (PvE/ PvP): "The only redeeming quality about this scout is that it's Hakke and Stasis" Recommended MW: Handling, Stability, Reload 
+dimwishlist:item=1019000888&perks=,3700496672,3038247973
+dimwishlist:item=1019000888&perks=,1428297954,3038247973
+dimwishlist:item=1019000888&perks=,247725512,3038247973
+dimwishlist:item=1019000888&perks=,247725512,2896038713
+dimwishlist:item=1019000888&perks=,1428297954,2896038713
+dimwishlist:item=1019000888&perks=,1428297954,124408337
+dimwishlist:item=1019000888&perks=,247725512,124408337
+
+//SERVANT LEADER 
+//notes: Bob (PvE/ PvP) "Pretty nice feeling rapid frame scout" Recommended MW: Handling, Reload, Stability
+dimwishlist:item=1107446438&perks=4090651448,1168162263,1015611457
+dimwishlist:item=1107446438&perks=4090651448,247725512,1015611457
+dimwishlist:item=1107446438&perks=4090651448,3436462433,1015611457
+dimwishlist:item=1107446438&perks=4090651448,2450788523,1015611457
+dimwishlist:item=1107446438&perks=4090651448,1570042021,1015611457
+dimwishlist:item=1107446438&perks=4090651448,2946784966,1015611457
+dimwishlist:item=1107446438&perks=4090651448,1354429876,3425386926
+dimwishlist:item=1107446438&perks=4090651448,1570042021,3425386926
+dimwishlist:item=1107446438&perks=4090651448,1820235745,3425386926
+dimwishlist:item=1107446438&perks=4090651448,1168162263,3425386926
+dimwishlist:item=1107446438&perks=4090651448,247725512,3425386926
+dimwishlist:item=1107446438&perks=4090651448,1354429876,4104185692
+dimwishlist:item=1107446438&perks=4090651448,3700496672,4104185692
+dimwishlist:item=1107446438&perks=4090651448,1820235745,4104185692
+dimwishlist:item=1107446438&perks=4090651448,247725512,4104185692
+
+//AISHA'S EMBRACE 
+//notes: Bob (PvE/ PvP) "Decent PvP rapid frame" Recommended MW: Handling, Stability 
+dimwishlist:item=2638190703&perks=839105230,1561002382,1428297954,2458213969
+dimwishlist:item=2638190703&perks=3661387068,1561002382,1428297954,2458213969
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1428297954,2458213969
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1428297954,2458213969
+dimwishlist:item=2638190703&perks=1482024992,1561002382,1428297954,2458213969
+dimwishlist:item=2638190703&perks=839105230,1885400500,1428297954,2458213969
+dimwishlist:item=2638190703&perks=3661387068,1885400500,1428297954,2458213969
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1428297954,2458213969
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1428297954,2458213969
+dimwishlist:item=2638190703&perks=,3400784728,2458213969
+dimwishlist:item=2638190703&perks=,2946784966,2458213969
+dimwishlist:item=2638190703&perks=,1583705720,2458213969
+dimwishlist:item=2638190703&perks=,3400784728,1546637391
+dimwishlist:item=2638190703&perks=839105230,1561002382,1428297954,3673922083
+dimwishlist:item=2638190703&perks=3661387068,1561002382,1428297954,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1428297954,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1428297954,3673922083
+dimwishlist:item=2638190703&perks=839105230,1885400500,1428297954,3673922083
+dimwishlist:item=2638190703&perks=3661387068,1885400500,1428297954,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1428297954,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1428297954,3673922083
+dimwishlist:item=2638190703&perks=839105230,1561002382,2946784966,3673922083
+dimwishlist:item=2638190703&perks=3661387068,1561002382,2946784966,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1561002382,2946784966,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1561002382,2946784966,3673922083
+
+//POINTED INQUIRY 
+//notes: Bob (PvE): "If you're using this in PvP, you're throwing" Recommended MW: Handling, Reload, Stability
+dimwishlist:item=297296830&perks=,3096702027,1048183818
+
+//ETERNAL BLAZON 
+//notes: Bob (PvE): "the only reason to use it is that it's one of the few arc scouts" Recommended MW: Stability, Handling, Reload 
+dimwishlist:item=3514096004&perks=,247725512,1683379515
+dimwishlist:item=3514096004&perks=,3643424744,1683379515
+dimwishlist:item=3514096004&perks=,706527188,1683379515
+
+//VOUCHSAFE 
+//notes: Bob (PvE): "One of the best energy PvE scout" Recommended MW: Stability, Handling 
+dimwishlist:item=3242168339&perks=,247725512,2848615171
+dimwishlist:item=3242168339&perks=,1168162263,2848615171
+dimwishlist:item=3242168339&perks=,1354429876,2848615171
+dimwishlist:item=3242168339&perks=,3436462433,2848615171
+dimwishlist:item=3242168339&perks=,247725512,3038247973
+dimwishlist:item=3242168339&perks=,1168162263,3038247973
+dimwishlist:item=3242168339&perks=,1354429876,3038247973
+dimwishlist:item=3242168339&perks=,3436462433,3038247973
+
+//TRUSTEE 
+//notes: Bob (PvE/ PvP): "Really good PvE rapid frame, and surprisingly good in PvE wih HIR" Recommended MW: Stability, Handling, Reload
+dimwishlist:item=1392919471&perks=,1523832109,3201496230
+dimwishlist:item=1392919471&perks=,3436462433,3201496230
+dimwishlist:item=1392919471&perks=,2450788523,2213355989
+dimwishlist:item=1392919471&perks=,1645158859,2213355989
+dimwishlist:item=1392919471&perks=,2387244414,2213355989
+dimwishlist:item=1392919471&perks=,3436462433,2213355989
+dimwishlist:item=1392919471&perks=,1168162263,2213355989
+
+
 // --------------------------------------------------------------------------------------------------------------------------
 // PULSE RIFLES -------------------------------------------------------------------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------------------
@@ -39,6 +158,153 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,957782887 | He
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,957782887 | Moving Target and Snapshot
 dimwishlist:item=1621558458&perks=839105230,1561002382,2946784966,2458213969 | Tunnel and Multikill
 
+//PIECE OF MIND 
+//notes: Bob (PvE/ PvP) "The best rapid fire frame for PvP duelling" Recommended MW: Handling, Stability, Range
+dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,588594999
+dimwishlist:item=2097055732&perks=3661387068,1561002382,1428297954,588594999
+dimwishlist:item=2097055732&perks=839105230,1885400500,1428297954,588594999
+dimwishlist:item=2097055732&perks=3661387068,1885400500,1428297954,588594999
+dimwishlist:item=2097055732&perks=839105230,1885400500,1570042021,588594999
+dimwishlist:item=2097055732&perks=3661387068,1885400500,1570042021,588594999
+dimwishlist:item=2097055732&perks=839105230,1561002382,1570042021,588594999
+dimwishlist:item=2097055732&perks=3661387068,1561002382,1570042021,588594999
+dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,588594999
+dimwishlist:item=2097055732&perks=3661387068,1561002382,3643424744,588594999
+dimwishlist:item=2097055732&perks=839105230,1885400500,3643424744,588594999
+dimwishlist:item=2097055732&perks=3661387068,1885400500,3643424744,588594999
+dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,3511092054
+dimwishlist:item=2097055732&perks=3661387068,1561002382,1428297954,3511092054
+dimwishlist:item=2097055732&perks=839105230,1885400500,1428297954,3511092054
+dimwishlist:item=2097055732&perks=3661387068,1885400500,1428297954,3511092054
+dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,438098033
+dimwishlist:item=2097055732&perks=3661387068,1561002382,1428297954,438098033
+dimwishlist:item=2097055732&perks=839105230,1885400500,1428297954,438098033
+dimwishlist:item=2097055732&perks=3661387068,1885400500,1428297954,438098033
+
+//SYNCOPATION-53 
+//notes: Bob (PvE/ PvP) "Very solid and consistent PvP adaptive pulse" Recommended MW: Handling, Stability, Range
+dimwishlist:item=2856514843&perks=839105230,1561002382,588594999,2846385770
+dimwishlist:item=2856514843&perks=3661387068,1561002382,588594999,2846385770
+dimwishlist:item=2856514843&perks=839105230,1885400500,588594999,2846385770
+dimwishlist:item=2856514843&perks=3661387068,1885400500,588594999,2846385770
+dimwishlist:item=2856514843&perks=3661387068,1561002382,2387244414,2846385770
+dimwishlist:item=2856514843&perks=839105230,1561002382,2387244414,2846385770
+dimwishlist:item=2856514843&perks=839105230,1885400500,2387244414,2846385770
+dimwishlist:item=2856514843&perks=3661387068,1885400500,2387244414,2846385770
+dimwishlist:item=2856514843&perks=3661387068,1885400500,1866048759,2846385770
+dimwishlist:item=2856514843&perks=839105230,1885400500,1866048759,2846385770
+dimwishlist:item=2856514843&perks=839105230,1561002382,1866048759,2846385770
+dimwishlist:item=2856514843&perks=3661387068,1561002382,1866048759,2846385770
+dimwishlist:item=2856514843&perks=,588594999,4104185692
+dimwishlist:item=2856514843&perks=,1168162263,124408337
+
+//LEGAL ACTION II 
+//notes: Bob (PvE/ PvP) "Outranges Messenger because of zoom factor" Recommended MW: Handling, Stability, Range 
+dimwishlist:item=3409645497&perks=839105230,1570042021,4104185692
+dimwishlist:item=3409645497&perks=839105230,3436462433,4104185692
+dimwishlist:item=3409645497&perks=839105230,3436462433,4104185692
+dimwishlist:item=3409645497&perks=839105230,588594999,4104185692
+dimwishlist:item=3409645497&perks=839105230,2450788523,4104185692
+dimwishlist:item=3409645497&perks=3661387068,1570042021,4104185692
+dimwishlist:item=3409645497&perks=3661387068,3436462433,4104185692
+dimwishlist:item=3409645497&perks=,2779035018,4104185692
+dimwishlist:item=3409645497&perks=3661387068,588594999,4104185692
+dimwishlist:item=3409645497&perks=3661387068,2450788523,4104185692
+dimwishlist:item=3409645497&perks=839105230,1570042021,3425386926
+dimwishlist:item=3409645497&perks=839105230,3436462433,3425386926
+dimwishlist:item=3409645497&perks=839105230,2779035018,3425386926
+dimwishlist:item=3409645497&perks=839105230,588594999,3425386926
+dimwishlist:item=3409645497&perks=839105230,2450788523,3425386926
+dimwishlist:item=3409645497&perks=3661387068,1570042021,3425386926
+dimwishlist:item=3409645497&perks=3661387068,3436462433,3425386926
+dimwishlist:item=3409645497&perks=3661387068,2779035018,3425386926
+dimwishlist:item=3409645497&perks=3661387068,588594999,3425386926
+dimwishlist:item=3409645497&perks=3661387068,2450788523,3425386926
+
+//THE MESSENGER 
+//notes: Bob (PvE/ PvP) "The best legendary PvP pulse, and not that bad in PvE" Recommended MW: Handling, Stability 
+dimwishlist:item=3658188704&perks=839105230,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=3661387068,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=4090651448,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=3250034553,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=1482024992,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=839105230,1885400500,247725512,3047969693
+dimwishlist:item=3658188704&perks=3661387068,1885400500,247725512,3047969693
+dimwishlist:item=3658188704&perks=4090651448,1885400500,247725512,3047969693
+dimwishlist:item=3658188704&perks=3250034553,1885400500,247725512,3047969693
+dimwishlist:item=3658188704&perks=1482024992,1885400500,247725512,3047969693
+dimwishlist:item=3658188704&perks=,1561002382,2450788523,3047969693
+dimwishlist:item=3658188704&perks=,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=,1561002382,1168162263,3047969693
+dimwishlist:item=3658188704&perks=,1561002382,1570042021,3047969693
+dimwishlist:item=3658188704&perks=,1561002382,1428297954,3047969693
+dimwishlist:item=3658188704&perks=,1885400500,247725512,3047969693
+dimwishlist:item=3658188704&perks=,1885400500,2450788523,3047969693
+dimwishlist:item=3658188704&perks=,1885400500,1168162263,3047969693
+dimwishlist:item=3658188704&perks=,1885400500,1570042021,3047969693
+dimwishlist:item=3658188704&perks=,1885400500,1428297954,3047969693
+dimwishlist:item=3658188704&perks=,1561002382,247725512,1015611457
+dimwishlist:item=3658188704&perks=,1885400500,247725512,1015611457
+dimwishlist:item=3658188704&perks=,1561002382,2450788523,1015611457
+dimwishlist:item=3658188704&perks=,1561002382,1168162263,1015611457
+dimwishlist:item=3658188704&perks=,1561002382,588594999,1015611457
+dimwishlist:item=3658188704&perks=,1561002382,1570042021,1015611457
+dimwishlist:item=3658188704&perks=,1561002382,1428297954,1015611457
+dimwishlist:item=3658188704&perks=,1885400500,247725512,1015611457
+dimwishlist:item=3658188704&perks=,1885400500,2450788523,1015611457
+dimwishlist:item=3658188704&perks=,1885400500,1168162263,1015611457
+dimwishlist:item=3658188704&perks=,1885400500,588594999,1015611457
+dimwishlist:item=3658188704&perks=,1885400500,1570042021,1015611457
+dimwishlist:item=3658188704&perks=,1885400500,1428297954,1015611457
+dimwishlist:item=3658188704&perks=,1428297954,4104185692
+dimwishlist:item=3658188704&perks=,247725512,4104185692
+dimwishlist:item=3658188704&perks=,1583705720,3047969693
+
+//CHATTERING BONE
+//notes: Bob (PvP) "Interesting bcs of double dmg perks" Recommended MW: Handling, Stability, Range 
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989
+dimwishlist:item=568515759&perks=,1168162263,2213355989
+dimwishlist:item=568515759&perks=,1168162263,3425386926
+
+//DARKEST BEFORE 
+//notes: Bob (PvP) "Excellent PvP duelling pulse" Recommended MW: Handling, Stability, Range 
+dimwishlist:item=2481758391&perks=839105230,1561002382,2946784966,4267945040
+dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040
+dimwishlist:item=2481758391&perks=839105230,1561002382,3643424744,4267945040
+dimwishlist:item=2481758391&perks=839105230,1561002382,3161816588,4267945040
+dimwishlist:item=2481758391&perks=839105230,1561002382,706527188,4267945040
+dimwishlist:item=2481758391&perks=3661387068,1561002382,2946784966,4267945040
+dimwishlist:item=2481758391&perks=3661387068,1561002382,3436462433,4267945040
+dimwishlist:item=2481758391&perks=3661387068,1561002382,3643424744,4267945040
+dimwishlist:item=2481758391&perks=3661387068,1561002382,3161816588,4267945040
+dimwishlist:item=2481758391&perks=3661387068,1561002382,706527188,4267945040
+dimwishlist:item=2481758391&perks=839105230,1561002382,2946784966,3511092054
+dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,3511092054
+dimwishlist:item=2481758391&perks=839105230,1561002382,3643424744,3511092054
+dimwishlist:item=2481758391&perks=839105230,1561002382,3161816588,3511092054
+dimwishlist:item=2481758391&perks=839105230,1561002382,706527188,3511092054
+
+//INSIDIOUS 
+//notes: Bob (PvE/ PvP) "One of the best PvE Pulse" Recommended MW: Handling, Stability, Reload 
+dimwishlist:item=3428521585&perks=,2848615171,4049631843
+dimwishlist:item=3428521585&perks=,3523296417,11612903
+dimwishlist:item=3428521585&perks=,3523296417,3425386926
+dimwishlist:item=3428521585&perks=,247725512,3425386926
+dimwishlist:item=3428521585&perks=839105230,3142289711,247725512,3425386926
+dimwishlist:item=3428521585&perks=3661387068,3142289711,247725512,3425386926
+dimwishlist:item=3428521585&perks=839105230,3142289711,1570042021,3425386926
+dimwishlist:item=3428521585&perks=3661387068,3142289711,1570042021,3425386926
+
+//OGMA PR6 
+//notes: Bob (PvE) "Interesting with energy regen builds" Recommended MW: Handling, Reload, Stability
+dimwishlist:item=2342054803&perks=,3523296417,3592538738
+dimwishlist:item=2342054803&perks=,3523296417,11612903
+dimwishlist:item=2342054803&perks=,1428297954,1683379515
+dimwishlist:item=2342054803&perks=,3523296417,1683379515
+dimwishlist:item=2342054803&perks=,1048183818,1683379515
+
+
+
 
 // --------------------------------------------------------------------------------------------------------------------------
 // AUTO RIFLES --------------------------------------------------------------------------------------------------------------
@@ -53,6 +319,69 @@ dimwishlist:item=2496875173&perks=1820235745,3425386926 | SORROW'S VERSE
 
 //notes: Roman (PvP): "Great close to mid-range auto rifle" Recommended MW: Range, Handling.
 dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,1015611457 | Heating up + Kill Clip CHROMA RUSH
+
+//KRAIT 
+//notes: Bob (PvE/ PvP): "it's aight" Recommended MW: Stability, Handling
+dimwishlist:item=2852052802&perks=,3643424744,124408337
+dimwishlist:item=2852052802&perks=,1820235745,124408337
+dimwishlist:item=2852052802&perks=,1561002382,3643424744,3673922083
+
+//DUTY BOUND 
+//notes: Bob (PvE) "Pretty decent for PvE, wouldn't use it in PvP" Recommended MW: Handling, Stability 
+dimwishlist:item=435216110&perks=,3400784728,4104185692
+dimwishlist:item=435216110&perks=,1428297954,4104185692
+
+//THE LAST BREATH 
+//notes: Bob (PvE/ PvP) "Really good in PvE, but lacking in PvP bcs of zoom" Recommended MW: Range, Handling, Stability
+dimwishlist:item=507038823&perks=,1561002382,2450788523,2846385770
+dimwishlist:item=507038823&perks=,1561002382,1359896290,2846385770
+dimwishlist:item=507038823&perks=,1561002382,3161816588,2846385770
+dimwishlist:item=507038823&perks=,3523296417,11612903
+dimwishlist:item=507038823&perks=,3523296417,4104185692
+dimwishlist:item=507038823&perks=,1820235745,4104185692
+dimwishlist:item=507038823&perks=,3523296417,1774574192
+
+//SWEET SORROW 
+//notes: Bob (PvP/ PvE) "Solid auto" Recommended MW: Range, Handling, Stability
+dimwishlist:item=1248372789&perks=,3400784728,3523296417
+dimwishlist:item=1248372789&perks=,3400784728,4049631843
+dimwishlist:item=1248372789&perks=,1428297954,3523296417
+dimwishlist:item=1248372789&perks=,1428297954,4049631843
+dimwishlist:item=1248372789&perks=,1583705720,4049631843
+dimwishlist:item=1248372789&perks=,1428297954,1890422124
+dimwishlist:item=1248372789&perks=,2450788523,1890422124
+
+//THE SUMMONER 
+//notes: Bob (PvP/ PvE) "Really solid PvP auto, usable in PvE" Recommended MW: Handling, Range, Stability 
+dimwishlist:item=1907698332&perks=,3643424744,3425386926
+dimwishlist:item=1907698332&perks=,588594999,3425386926
+dimwishlist:item=1907698332&perks=,1359896290,3425386926
+dimwishlist:item=1907698332&perks=,1428297954,3425386926
+dimwishlist:item=1907698332&perks=,1570042021,3425386926
+dimwishlist:item=1907698332&perks=,2846385770,3425386926
+dimwishlist:item=1907698332&perks=,3643424744,3511092054
+dimwishlist:item=1907698332&perks=,1359896290,3511092054
+dimwishlist:item=1907698332&perks=,1428297954,3511092054
+dimwishlist:item=1907698332&perks=,1570042021,3511092054
+dimwishlist:item=1907698332&perks=,2846385770,3511092054
+dimwishlist:item=1907698332&perks=,588594999,2458213969
+dimwishlist:item=1907698332&perks=,1359896290,2458213969
+dimwishlist:item=1907698332&perks=,1428297954,2458213969
+dimwishlist:item=1907698332&perks=,1570042021,2458213969
+dimwishlist:item=1907698332&perks=,2846385770,2458213969
+dimwishlist:item=1907698332&perks=,3643424744,2610012052
+dimwishlist:item=1907698332&perks=,1428297954,2610012052
+
+//COME TO PASS 
+//notes: Bob (PvE) "This archetype is really bad but it has interesting perk combo" Recommended MW: Handling, Range, Reload 
+dimwishlist:item=927567426&perks=,3096702027,1048183818
+dimwishlist:item=927567426&perks=,1428297954,1048183818
+dimwishlist:item=927567426&perks=,1583705720,4049631843
+dimwishlist:item=927567426&perks=,1428297954,4049631843
+dimwishlist:item=927567426&perks=,1428297954,2610012052
+
+
+
 
 // --------------------------------------------------------------------------------------------------------------------------
 // HANDCANNONS --------------------------------------------------------------------------------------------------------------
@@ -436,6 +765,51 @@ dimwishlist:item=346136302&perks=1047830412,791862061,1556840489,1546637391 Roma
 dimwishlist:item=2443900757&perks=1047830412,791862061,1820235745,2360754333 Roman (PvE): "Okay for trash clear and melee" Recommended MW: Handling. | THE COMEDIAN (ADEPT)
 dimwishlist:item=2443900757&perks=1047830412,3142289711,1820235745,3108830275 Roman (PvE): "Okay for solo trash clear" Recommended MW: Handling. | THE COMEDIAN (ADEPT)
 
+//WASTELANDER M5 
+//notes: Bob (PvE/ PvP) "Excellent PvP shotgun and only used in PvE for one two punch" Recommended MW: Reload, Handling 
+dimwishlist:item=1679868061&perks=1332244541,3142289711,1428297954,47981717
+dimwishlist:item=1679868061&perks=1332244541,3142289711,3161816588,47981717
+dimwishlist:item=1679868061&perks=1047830412,3142289711,1428297954,47981717
+dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=1679868061&perks=1047830412,1556840489,2679249093
+
+//RAGNHILD-D 
+//notes: Bob (PvP/ PvE) "Really good PvP aggressive and only used PvE one two punch" recommended MW: Reload, Handling 
+dimwishlist:item=4225322581&perks=1332244541,791862061,1428297954,3511092054
+dimwishlist:item=4225322581&perks=1332244541,3142289711,1428297954,3511092054
+dimwishlist:item=4225322581&perks=1047830412,3300816228,2679249093
+
+//FORTISSIMO--11
+//notes: Bob (PvP/ PvE) "Very solid slug for both PvE and PvP" Recommended MW: Range, Handling 
+dimwishlist:item=2821430069&perks=202670084,3142289711,1428297954,47981717
+dimwishlist:item=2821430069&perks=,1354429876,1546637391
+
+//HERITAGE 
+//notes: Bob (PvP/ PvE) "One of the best slug in PvE, and excellent in PvP) Recommended MW: Range, Handling 
+dimwishlist:item=4248569242&perks=202670084,3142289711,3161816588,2450788523
+dimwishlist:item=4248569242&perks=202670084,3142289711,1866048759,2450788523
+dimwishlist:item=4248569242&perks=,1523832109,469285294
+dimwishlist:item=4248569242&perks=202670084,3142289711,3161816588,588594999
+
+//FOUND VERDICT 
+//notes: Bob (PvP/ PvE) "One of the best aggressive frames in PvP, it's aight in PvE" Recommended MW: Handling, Range
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3436462433,47981717
+dimwishlist:item=3197270240&perks=1047830412,3142289711,3436462433,47981717
+dimwishlist:item=3197270240&perks=4090651448,3142289711,3436462433,47981717
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,47981717
+dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=3197270240&perks=,3300816228,2679249093
+dimwishlist:item=3197270240&perks=,3418782618,2679249093
+dimwishlist:item=3197270240&perks=,3418782618,4104185692
+dimwishlist:item=3197270240&perks=,3418782618,1546637391
+dimwishlist:item=3197270240&perks=,2117683199,1546637391
+dimwishlist:item=3197270240&perks=,2117683199,4104185692
+
+//MATADOR 64 
+//notes: Bob (PvP/ PvE) "One of the better precision frame in PvP, and only usable in PvE for one two punch" Recommended MW: Handling, Reload 
+dimwishlist:item=2563012876&perks=1332244541,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=,1556840489,2679249093
 
 
 // --------------------------------------------------------------------------------------------------------------------------
@@ -443,9 +817,82 @@ dimwishlist:item=2443900757&perks=1047830412,3142289711,1820235745,3108830275 Ro
 // --------------------------------------------------------------------------------------------------------------------------
 
 //1000 YARD STARE
-//notes: Roman (PvP): "Bob said it's Okay" Recommended MW: Range.
+//notes: Roman (PvP): "Bob said it's Okay - this is Bob - damn right" Recommended MW: Range.
 dimwishlist:item=4164201232&perks=3250034553,3142289711,706527188,957782887
 dimwishlist:item=4164201232&perks=202670084,3142289711,706527188,957782887,2697220197
+
+//THOUGHTLESS 
+//notes: Bob (PvP/ PvE): "Excellent PvE sniper bcs of stasis affinity, and probably fine in PvP bcs of snapshot" Recommended MW: Handling, Range 
+dimwishlist:item=4067556514&perks=,3643424744,1771339417
+dimwishlist:item=4067556514&perks=,280464955,957782887
+dimwishlist:item=4067556514&perks=,1428297954,957782887
+dimwishlist:item=4067556514&perks=,1428297954,706527188
+dimwishlist:item=4067556514&perks=,280464955,706527188
+
+//SILICONE NEUROMA 
+//notes: Bob (PvP/ PvE) "Really great gun feel, it is also amazing in PvP and not too shabby in PvE" Recommended MW: Handling, Range 
+dimwishlist:item=3355385170&perks=,957782887,47981717
+dimwishlist:item=3355385170&perks=,280464955,47981717
+dimwishlist:item=3355385170&perks=,1428297954,47981717
+dimwishlist:item=3355385170&perks=,3400784728,1771339417
+dimwishlist:item=3355385170&perks=,3400784728,4104185692
+dimwishlist:item=3355385170&perks=,280464955,4104185692
+
+//SUCCESSION 
+//notes: Bob (PvP/ PvE) "The best kinetic legendary sniper in PvE" Recommended MW: Handling, Reload 
+dimwishlist:item=2990047042&perks=,1523832109,469285294
+dimwishlist:item=2990047042&perks=,1523832109,1546637391
+dimwishlist:item=2990047042&perks=,1556840489,1546637391
+dimwishlist:item=2990047042&perks=,1556840489,469285294
+dimwishlist:item=2990047042&perks=,588594999,957782887
+dimwishlist:item=2990047042&perks=,2039302152,957782887
+dimwishlist:item=2990047042&perks=,2866798147,957782887
+
+//FUGUE-55 
+//notes Bob (PvP/ PvE) "solid sniper" Recommended MW: Handling, Reload 
+dimwishlist:item=2233545123&perks=,1354429876,1546637391
+dimwishlist:item=2233545123&perks=,2866798147,957782887
+dimwishlist:item=2233545123&perks=,509074078,957782887
+dimwishlist:item=2233545123&perks=,1354429876,1546637391
+dimwishlist:item=2233545123&perks=,2866798147,588594999
+dimwishlist:item=2233545123&perks=,509074078,588594999
+
+//TWILIGHT OATH 
+//notes: Bob (PvP/ PvE) "Really decent in PvP, and it's aight in PvE" Recommended MW: Reload, Handling 
+dimwishlist:item=3297863558&perks=,47981717,1015611457
+dimwishlist:item=3297863558&perks=,47981717,3511092054
+dimwishlist:item=3297863558&perks=,47981717,957782887
+dimwishlist:item=3297863558&perks=,1556840489,1546637391
+
+//FATHER'S SINS 
+//notes: Bob (PvP/ PvE) "It sounds good, it looks good, it shoots good, monke" Recommended MW: Handling, Range
+dimwishlist:item=3865728990&perks=,3400784728,2896038713
+dimwishlist:item=3865728990&perks=,2866798147,957782887
+dimwishlist:item=3865728990&perks=,1645158859,957782887
+dimwishlist:item=3865728990&perks=,1645158859,957782887
+dimwishlist:item=3865728990&perks=,1645158859,47981717
+dimwishlist:item=3865728990&perks=,2866798147,47981717
+
+//UZUME RR4 
+//notes: Bob (PvP/ PvE) "Really good in PvP, and not too bad in PvE" Recommended MW: Handling, Stability, Range 
+dimwishlist:item=2065081837&perks=,3400784728,1546637391
+dimwishlist:item=2065081837&perks=,2284787283,1546637391
+dimwishlist:item=2065081837&perks=,957782887,1546637391
+
+//FROZEN ORBIT 
+//notes: Bob (PvP/ PvE) "Solid sniper for crucible and has interesting roll for 1 body" Recommended MW: Handling, Range 
+dimwishlist:item=3473290087&perks=,3436462433,1015611457
+dimwishlist:item=3473290087&perks=,2866798147,1015611457
+dimwishlist:item=3473290087&perks=,588594999,1015611457
+dimwishlist:item=3473290087&perks=,280464955,1015611457
+dimwishlist:item=3473290087&perks=,3400784728,1546637391
+dimwishlist:item=3473290087&perks=,588594999,2213355989
+dimwishlist:item=3473290087&perks=,280464955,2213355989
+dimwishlist:item=3473290087&perks=,588594999,47981717
+dimwishlist:item=3473290087&perks=,588594999,957782887
+dimwishlist:item=3473290087&perks=,588594999,706527188
+
+
 
 // --------------------------------------------------------------------------------------------------------------------------
 // TRACE RIFLE --------------------------------------------------------------------------------------------------------------
